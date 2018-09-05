@@ -42,4 +42,4 @@ client.on('message', msg => {
   }
 });
 
-client.login(NDg2ODkwMzE3ODkxNzY0MjI0.DnFr2g.X_1g-yzdA4w9IFpBdxLnEKJ9QVw);
+client.login(MARDATONE);
